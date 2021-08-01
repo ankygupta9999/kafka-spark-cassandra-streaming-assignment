@@ -1,0 +1,10 @@
+kafka:
+    broker: 'localhost:9092'
+    tgt_topic: test
+    # db: write-math
+# other:
+#     preprocessing_queue:
+#         - preprocessing.scale_and_center
+#         - preprocessing.dot_reduction
+#         - preprocessing.connect_lines
+#     use_anonymous: yes
